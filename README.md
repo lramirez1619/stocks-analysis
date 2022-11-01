@@ -9,6 +9,7 @@ A good friend Steve and his family would like to invest on green energy, specifi
 The main purpose of the challenge is to re-write or refactor the original report for DAQO to reflect other potential stock options while decreasing the runtime it takes for the report to run.
 
 ## Results
+
 ### Refactor: Module2_VBA_Script
 
     '1a) Create a ticker Index
@@ -65,20 +66,22 @@ The main purpose of the challenge is to re-write or refactor the original report
         
     Next i
     
-![Original Run](.png)
+### Original timer
+![Original Run](https://github.com/lramirez1619/stocks-analysis/blob/33985fe08dad7407c8b5165e53953cced0eafd20/Resources/VBA_Challenge2.5_2018.png)
 
+### Refactor timer
 ![Refactor Run](https://github.com/lramirez1619/stocks-analysis/blob/ff4b365911639b747a7dd4e793de4d5372043a8b/Resources/VBA_Challenge.25_2018.png)
 
 ## Summary
 
 ### Advantages of refactoring code
-Refactoring may not take as much time consuming as building the codes from scratch. It allows you to look at the codes and re-organize or re-format in ways that is not only more user friendly but also requires less resource to run reduce the code size. It is beneficial when onboarding a new user to an existing report. A good opportunity to add new features and functionalities as needed.
+May not take as much time as building the codes from scratch. Allows you to look at the codes and re-organize or re-format in ways that is not only more user friendly but also requires less resource to run due to reduced code size. It is beneficial when onboarding a new user to an existing report. A good opportunity to add new features and functionalities as needed.
       
 ### Disadvantages of refactoring code
-Refactoring may be a disadvantage when a new sets of bugs is introduced while in pursuit of reducing code sizes. It can also be a disadvatage if it causes to miss deadline since its an additional time investment. In some cases its possible that an original file is so poorly written that it may be more efficient to write a new set of codes than to try to decipher and re-write. 
+Refactoring may be a disadvantage when new bugs are introduced while in pursuit of reducing code sizes. It can also be a disadvatage if it causes to miss deadline since its an additional time investment. In some cases its possible that an original file is so poorly written that it may be more efficient to write a new set of codes than to try to decipher and re-write. 
 
 ### How do these pros and cons apply to refactoring the original VBA script?
-In refactoring the original VBA, the time had reduced from __ to __ for 2018 data. It is also much more user friendly for anyone jumpis ing in that looking into how the codes are written. On the downside, it took another three days to complete the refactoring and a new set of bugs were introduced. In addition to my time to complete this project, I needed additional help from a one on one tutor to help address those errors. 
+In refactoring the original script, time reduced from 2.5 seconds to 0.26 seconds for 2018 data which is 89.6% time reduction. It is user friendly for future users.  The task did require time to execute.
 
 
 
