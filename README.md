@@ -66,7 +66,9 @@ The main purpose of the challenge is to re-write or refactor the original report
     Next i
     
 ![Original Run](.png)
-![Refactor Run](.png)
+
+![Refactor Run](https://github.com/lramirez1619/stocks-analysis/blob/ff4b365911639b747a7dd4e793de4d5372043a8b/Resources/VBA_Challenge.25_2018.png)
+
 ## Summary
 
 ### Advantages of refactoring code
