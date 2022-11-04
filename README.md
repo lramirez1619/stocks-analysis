@@ -72,6 +72,9 @@ The main purpose of the challenge is to re-write or refactor the original report
 ### Refactor timer
 ![Refactor Run](https://github.com/lramirez1619/stocks-analysis/blob/ff4b365911639b747a7dd4e793de4d5372043a8b/Resources/VBA_Challenge.25_2018.png)
 
+### Analysis
+In 2018, the market seems to be healthier in comparison to 2017 for green energy stocks. Based on the data, Steve and his family should consider investing on ENPH and RUN. For 2017, both ENPH and RUN did well in the market just like the other green energy stocks, however in 2018 ENPH experienced a 81.9% results while RUN experienced an 84% results. Both stocks did well however, the rest of the green energy stocks did not fare well and experienced a negative result in 2018. Both stocks did well historically, however a continual mornitoring would be wise as Steve and his family as they continue to invest in green energy.
+
 ## Summary
 
 ### Advantages of refactoring code
